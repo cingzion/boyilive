@@ -7,6 +7,12 @@ export default () => (
     copyright="2019 蚂蚁金服体验技术部出品"
     links={[
       {
+        key: 'BoYi Live Pro',
+        title: 'BoYi Live Pro',
+        href: 'https://pro.ant.design',
+        blankTarget: true,
+      },
+      {
         key: 'Ant Design Pro',
         title: 'Ant Design Pro',
         href: 'https://pro.ant.design',
